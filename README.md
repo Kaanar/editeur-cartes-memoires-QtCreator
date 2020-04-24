@@ -1,2 +1,4 @@
 # editeur-cartes-memoires-QtCreator
-Ce projet a été réalisé dans un cadre universitaire. Ce projet m'a permis de renforcer mes connaissances en C++ et de pouvoir les appliquer concrètement.
+Important:
+
+Toute information relative aux possibilités de cette application se trouve en commentaire de chaque prorotype de fonction sur le fichier.h
